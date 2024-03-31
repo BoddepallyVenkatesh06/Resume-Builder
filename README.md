@@ -1,6 +1,6 @@
 # Resume Builder
 
-Build your professional resume with ease.
+Build your Professional Resume with Ease.
 
 ## Table of Contents
 
